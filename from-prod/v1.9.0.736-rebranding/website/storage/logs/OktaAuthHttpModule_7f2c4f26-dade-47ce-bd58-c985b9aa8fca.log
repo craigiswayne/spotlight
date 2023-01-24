@@ -1,0 +1,952 @@
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:20 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:26 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:26 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:27 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:27 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:47 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:52 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:52 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:52 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:53 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:53 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:01:53 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:09 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:10 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:10 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:10 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:51 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:51 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:51 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:51 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:51 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:51 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:51 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:51 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:52 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:52 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:52 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:14:52 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:15:01 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:15:01 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:15:01 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:15:02 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:16:49 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:05 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:06 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:17 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:17 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:17 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:18 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:18 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:18 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:18 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:19 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:20 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:20 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:20 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:20 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:20 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:20 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:20 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:20 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:21 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:21 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:21 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:21 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:22 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:22 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:22 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:22 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:22 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:23 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:23 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:24 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:24 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:24 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:24 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:25 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:25 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:25 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:26 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:26 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:26 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
+============================
+ERROR - 07/15/2022 07:20:27 : 10.12.156.100
+System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.Combine(String path1, String path2)
+   at Enterprise.Spotlight.Web.Source.HttpModule.OktaAuthHttpModule.OnApplicationAuthenticateRequest(Object sender, EventArgs e)
+---------------------------
+
